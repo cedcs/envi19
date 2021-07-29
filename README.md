@@ -1,3 +1,8 @@
+---
+layout: page
+title: ENVI19
+---
+
 # Noticias del Viejo Imperio
 
 ### La Expedición del Pacífico y la Guerra Hispano-Sudamericana en los imaginarios geopolíticos de la España Liberal (1860-1866)
