@@ -1,5 +1,3 @@
-# Inicio
-
 # Noticias del Viejo Imperio
 
 ### La Expedición del Pacífico y la Guerra Hispano-Sudamericana en los imaginarios geopolíticos de la España Liberal (1860-1866)
@@ -10,29 +8,27 @@ El 10 de agosto de 1862 una tropa de corresponsales, autoridades y vecinos curio
 
 # Secciones
 
-[Proyecto](https://www.notion.so/Proyecto-79b9edaf829c46e7ad214790934c0726)
+[Proyecto](https://github.com/cedcs/envi19/docs/01_proyecto)
 
-[Diarios de Viaje](https://www.notion.so/Diarios-de-Viaje-a74f998424474556a7370c0a87c0b009)
+[Diarios de Viaje](https://github.com/cedcs/envi19/docs/11_diarios)
 
-[Prensa Política](https://www.notion.so/Prensa-Pol-tica-5675ab30fb1b42298dde8d8693055f9c)
+[Prensa Política](https://github.com/cedcs/envi19/docs/12_prensa)
 
-[Valija Diplomática](https://www.notion.so/Valija-Diplom-tica-21b0ef6f17ab406281c3a60a7cafc1d5)
+[Valija Diplomática](https://github.com/cedcs/envi19/docs/13_correo)
 
-[Actas Parlamentarias](https://www.notion.so/Actas-Parlamentarias-1f34a75ab20c466ebd1caace77b33f78)
+[Actas Parlamentarias](https://github.com/cedcs/envi19/docs/14_actas)
 
 # Comunicación
 
 Síguenos en [Twitter](https://twitter.com/@envi_19) para estar al día de nuestro calendario de actividades!
 
-Únete a nuestro canal de [Telegram](https://t.me/envi19) para acceder a todos los materiales de nuestro proyecto!
-
 Escucha nuestro podcast en [Soundcloud](https://soundcloud.com/envi_19), con entrevistas, presentaciones, conferencias y mesas redondas!
 
 Descárgate de [Flickr](https://www.flickr.com/people/envi19/) los pósters, cronolíneas y mapas que hemos elaborado en este proyecto!
 
-Lee en [Internet Archive](https://archive.org/details/@envi_19) todo lo que escribimos y te compartimos en este proyecto: ponencias, artículos de investigación, libros…
+Lee en [Humanities Commons](https://cedcs.hcommons.org/) todo lo que escribimos y te compartimos en este proyecto: ponencias, artículos de investigación, libros…
 
-Envíanos un [correo](mailto:envi19@pm.me) para contactarnos sobre cualquier asunto relacionado con este sitio o nuestro proyecto!
+O envíanos un [correo](mailto:envi19@pm.me) para contactarnos sobre cualquier asunto relacionado con este sitio o nuestro proyecto!
 
 # Instituciones
 
@@ -52,4 +48,4 @@ Todos los objetos digitales en esta web se publican en el marco del [Proyecto Fo
 
 Este proyecto se adhiere a la [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/boai-10-translations/spanish). Todos los objetos digitales de este proyecto se distribuyen bajo una [Licencia Creative Commons *Zero* 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.es).
 
-*Correo webmaster [admin@envi19.cl](mailto:admin@envi19.cl)* · *Versión 1.0  ·  Fecha de creación: 02 de marzo de 2021  ·  Última actualización: 15 de abril de 2021*
+*Correo webmaster* [envi19@pm.me](mailto:envi19@pm.me) · *Versión* 1.1  ·  *Fecha de creación* 02 de marzo de 2021  ·  *Última actualización* 29 de julio de 2021
