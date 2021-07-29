@@ -1,1 +1,28 @@
 theme: cedcs/hyde
+
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            ENVI19
+tagline:          'Noticias del Viejo Imperio, 1860-1866'
+description:      'Proyecto de investigación sobre el impacto que tuvieron la Expedición del Pacífico y la Guerra Hispano-Sudamericana en las visiones de lo global cultivadas por las culturas políticas de España entre 1862 y 1866.'
+url:              https://cedcs.github.io/envi19/
+baseurl:          
+
+author:
+  name:           'Fundación CEDCS'
+  url:            https://twitter.com/envi19
+
+paginate:         5
+
+# Custom vars
+version:          1.1
+
+github:
+  repo:           https://github.com/cedcs/envi19/
